@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Frontend Developer.<br>🌱 I’m currently learning React js<br>💬 Ask me about JavaScript<br>⚡ Fun fact One of my favorite hobbies is swimming because I love so much 
+🔭 I'm a Frontend Developer.<br>🌱 I’m currently learning React js and Telegraf js<br>💬 Ask me about JavaScript<br>⚡ Fun fact One of my favorite hobbies is swimming because I love so much 
 
 
 ## 🌐 Socials:
